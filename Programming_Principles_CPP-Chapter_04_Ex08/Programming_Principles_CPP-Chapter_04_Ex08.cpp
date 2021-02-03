@@ -1,7 +1,5 @@
 #include "../std_lib_facilities.h"
 
-vector<double>board(64);
-
 int main() {
 	double grains = 1;
 	double grains_asked;
