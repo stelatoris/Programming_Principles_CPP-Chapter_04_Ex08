@@ -1,4 +1,4 @@
-#include "../../std_lib_facilities.h"
+#include "../std_lib_facilities.h"
 
 vector<double>board(64);
 
