@@ -3,11 +3,9 @@
 vector<double>board(64);
 
 int main() {
-
 	double grains = 1;
 	double grains_asked;
 	double grains_total = 0;
-
 
 	cout << "How many grains do you want?";
 
