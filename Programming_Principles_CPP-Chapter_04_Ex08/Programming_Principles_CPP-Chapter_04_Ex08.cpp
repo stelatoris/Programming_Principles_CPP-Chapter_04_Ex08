@@ -16,19 +16,10 @@ int main() {
 	int vi = 0;
 
 	while (grains_total < grains_asked && vi < 64) {
-
-
 		grains_total += grains;
 		grains = grains * 2;
-
-
 		++vi;
-
 	}
 
 	cout << "You will get " << grains_asked << " grains from " << vi << " squares\n";
-
-
-
-
 }
